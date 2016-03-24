@@ -70,14 +70,14 @@
 		
 				<li class="mega">				
 					<a href="javascript:;" class="mega-tab">
-						Drop-Down
+						FAQ
 					</a>
 					
 					<div class="mega-content mega-menu ">
 						<ul>
-							<li><a href="#">Sub-Item-1</a></li>
-							<li><a href="#">Sub-Item-2</a></li>
-							<li><a href="#">Sub-Item-3</a></li>
+							<li><a href="#">About Us</a></li>
+							<li><a href="#">Contact Us</a></li>
+							<li><a href="#">Subscribe to our Newsletter</a></li>
 						</ul>
 					</div>						
 				</li>

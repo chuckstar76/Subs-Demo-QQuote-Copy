@@ -40,7 +40,7 @@ public class QuoteResource {
 		insuranceTypes.add("Water Sports");
 		insuranceTypes.add("Winter Sports");
 		insuranceTypes.add("Sports Car");
-		insuranceTypes.add("Pet");
+		//insuranceTypes.add("Pet");
 		insuranceTypes.add("Death");
 		insuranceTypes.add("Free Diving");
 		return insuranceTypes;

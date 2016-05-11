@@ -37,8 +37,8 @@ public class QuoteResource {
 		insuranceTypes.add("Marine");
 		insuranceTypes.add("Motor");
 		insuranceTypes.add("Travel");
-		//insuranceTypes.add("Water Sports");
-		//insuranceTypes.add("Winter Sports");
+		insuranceTypes.add("Water Sports");
+		insuranceTypes.add("Winter Sports");
 		insuranceTypes.add("Sports Car");
 		insuranceTypes.add("Pet");
 		insuranceTypes.add("Death");
